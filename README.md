@@ -1,6 +1,6 @@
 <div align=center>   
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Damnun&show_icons=true&theme=vue-dark)   
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Damnun&show_icons=true&theme=nord)   
 
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=universe_lee)](https://www.acmicpc.net/user/universe_lee)   
 
