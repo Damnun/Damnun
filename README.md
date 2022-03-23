@@ -1,17 +1,22 @@
 <div align=center>   
+ 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Universe_lee&fontSize=70&animation=twinkling)
+
+  
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-
 <p align="center"> Techs that I've used at least once </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
+
+<p align="center"> 세상을 바꾸는 개발자가 되고 싶습니다. </p>
+<p align="center"> I want to be a developer who changes the world. </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Damnun&show_icons=true&theme=nord)   
 
