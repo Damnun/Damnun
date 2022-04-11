@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
-<p align="center"> 세상을 바꾸는 개발자가 되고 싶습니다. </p>
 <p align="center"> I want to be a developer who changes the world. </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Damnun&show_icons=true&theme=nord)   
