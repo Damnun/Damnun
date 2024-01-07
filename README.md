@@ -5,7 +5,7 @@
 <br>
 
 <div align=cneter>
-<h3>🛠 Tech Stack 🛠</h3>
+## Tech Stacks
 <p> Techs that can be used in work </p>
 <br>
 
