@@ -4,8 +4,8 @@
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=universe_lee)](https://www.acmicpc.net/user/universe_lee)
 <br>
 
-<div align=cneter>
 ## Tech Stacks
+<div align=cneter>
 <p> Techs that can be used in work </p>
 <br>
 
