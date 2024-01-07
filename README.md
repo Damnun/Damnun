@@ -1,13 +1,13 @@
 <div align=center>   
- 
+
+<br>
+
 # 이재헌 Lee Jae Heon
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=universe_lee)](https://www.acmicpc.net/user/universe_lee)
 <br>
 
 ## Tech Stacks
 <div align=cneter>
-<p> Techs that can be used in work </p>
-<br>
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
