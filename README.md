@@ -1,6 +1,8 @@
 <div align=center>   
  
 # 이재헌 Lee Jae Heon
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=universe_lee)](https://www.acmicpc.net/user/universe_lee)
+<br>
 
 <div align=cneter>
 <h3>🛠 Tech Stack 🛠</h3>
@@ -37,13 +39,15 @@
 </div>
 <br>
 
-## 💻Careers
+## Careers
 **[2022] (주)무하유 하계학기 인턴십 - 자동화 프로그램 개발**<br>
 **[2023] (주)딥아이 국가근로장학 - AI 백엔드 개발**<br>
 **[2023] (주)엘리스 코더랜드 코딩교육 튜터**<br>
 **[2023] (주)리오 백엔드 개발 프리랜서**<br>
 
-## 📃Participations
+<br><br>
+
+## Participations
 **[2023] 과학기술정보통신부 소프트웨어마에스트로 14기 수료**<br>
 **[2023] 대학연합코딩동아리 멋쟁이사자처럼 11기 백엔드 교육 운영진**<br>
 **[2023] SCH SW프런티어 1기 수료**<br>
@@ -51,11 +55,6 @@
 **[2022] 캡스톤디자인 및 AI 해커톤 최우수상(총장상) 수상**<br>
 
 <br>
-<p align="center"> I want to be a developer who changes the world. </p>
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Damnun&show_icons=true&theme=nord)   
-
-[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=universe_lee)](https://www.acmicpc.net/user/universe_lee)   
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDamnun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
