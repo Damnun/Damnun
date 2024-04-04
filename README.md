@@ -3,6 +3,7 @@
 
 # 이재헌 Lee Jae Heon
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=universe_lee)](https://www.acmicpc.net/user/universe_lee)
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=universe_lee2)](https://www.acmicpc.net/user/universe_lee2)
 <br>
 <br>
 
